@@ -22,6 +22,10 @@ header_sub_title: Ionic 2 Developer Preview
   <ul>
     <li><a href="https://www.joshmorony.com/building-mobile-apps-with-ionic-2/">Building Mobile Apps with Ionic 2 by Joshua Morony</a></li>
   </ul>
+  
+  <ul>
+    <li><a href="https://leanpub.com/ionic2-book/">Ionic 2 - A Practical Introduction To Hybrid Mobile Apps Development by Sebastian Eschweiler</a></li>
+  </ul>
 </section>
 
 <section id="books-soon">
